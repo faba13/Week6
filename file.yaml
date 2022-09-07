@@ -1,0 +1,13 @@
+file_type: csv
+dataset_name: prebp400021
+file_name: prebp400021
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+ -Athlete
+ -Baseline_age
+ -Baseline_sex
+ -Baseline_height
+ -Baseline_mass
+ -Baseline_discipline
